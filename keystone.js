@@ -25,7 +25,6 @@ keystone.init({
 	'session': true,
 	'auth': true,
 	'user model': 'User',
-	'cloudinary config': 'public/upload'
 });
 
 // Load your project's Models
